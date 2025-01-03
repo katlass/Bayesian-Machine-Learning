@@ -1,8 +1,8 @@
 # Bayesian-Machine-Learning
 Deriving expectation maximization and variational inference algorithms from scratch.
 
-Check  out my article:
+Check  out my article: Variational Bayesian Inference for Unsupervised Clustering
 - Solved and released the first publicly available full mathematical derivation of a binomial mixture model given beta and Dirichlet priors using variational inference, including the exact evidence lower bound (ELBO) https://medium.com 
 - Implemented in PyTorch to speed matrix multiplication in fast, closed-form parameter update equations versus automatic differentiation and MCMC methods common in popular packages like PyMC and BayesPy
 
-[Variational Bayesian Inference for Unsupervised Clustering](https://medium.com/@kal2257/variational-bayesian-inference-for-unsupervised-clustering-f5af4482368c)
+[https://medium.com](https://medium.com/@kal2257/variational-bayesian-inference-for-unsupervised-clustering-f5af4482368c)
